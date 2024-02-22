@@ -4,10 +4,8 @@
 .gitconfig
 
 # Streamlit
-Streamlit/.streamlit/secrets.toml
-scratch.ipynb
-scratch.py
-Streamlit/data/art_images
+Streamlit-GDSC/.streamlit/secrets.toml
+Streamlit-GDSC/data/art_images
 
 # Webscraping scratches
 DataPreprocessing/nga_images
