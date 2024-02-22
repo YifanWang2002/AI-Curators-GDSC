@@ -16,7 +16,7 @@ DataPreprocessing/LICENSE.chromedriver
 DataPreprocessing/sel.py
 DataPreprocessing/Utilities/Web_Scraping/artwork_data.csv
 
-Streamlit-GDSC
+
 
 FastAPI/app/embedding_model/pytorch_model.bin
 
